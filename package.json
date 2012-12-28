@@ -6,5 +6,6 @@
 	, "soupselect" : "*"
 	, "underscore" : "*"
 	, "async" : "*"
+	, "htmlparser" : "*"
   }
 }
